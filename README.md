@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamshubh-8
-- 👀 I’m interested in hackathons
+- 👀 I’m interested in companionship
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Creative And Innovative Projects
 - 📫 How to reach me via mail
