@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamshubh-8
+- 👋 Hi, I’m Shubh
 - 👀 I’m interested in companionship
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Creative And Innovative Projects
